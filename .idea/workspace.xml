@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dde4b17-9f4f-43da-be19-f4705db57535" name="Changes" comment="Deleted requirements" />
+    <list default="true" id="5dde4b17-9f4f-43da-be19-f4705db57535" name="Changes" comment="Made new requirements" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +62,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677547952450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made new requirements">
+      <created>1677548141705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677548141705</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -80,6 +90,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="New Commit" />
     <MESSAGE value="Deleted requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted requirements" />
+    <MESSAGE value="Made new requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made new requirements" />
   </component>
 </project>
